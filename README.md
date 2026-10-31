@@ -25,7 +25,7 @@ Aplicação desktop desenvolvida em Python para automatizar a organização de a
 
 ## 🛠️ Tecnologias utilizadas
 
-- **Python 3**
+- **Python 3** – linguagem de programação.
 - **Tkinter** – interface gráfica.
 - **CustomTkinter** – componentes visuais.
 - **Pathlib** – manipulação de caminhos e arquivos.
@@ -36,7 +36,7 @@ Aplicação desktop desenvolvida em Python para automatizar a organização de a
 ## 📁 Estrutura do projeto
 
 ```text
-OrganizadorPython/
+Organizador-de-Arquivos/
 │
 ├── interface.py
 ├── organizador.py
@@ -50,25 +50,25 @@ OrganizadorPython/
 
 ## ⚙️ Instalação
 
-**1. Instale o Python**
+### 1. Instale o Python
 
 Baixe e instale o Python pelo site oficial:
 
 https://www.python.org/downloads/
 
-**2. Clone o repositório**
+### 2. Clone o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+git clone https://github.com/JoaoNogueron/Organizador-de-Arquivos.git
 ```
 
-**3. Entre na pasta do projeto**
+### 3. Entre na pasta do projeto
 
 ```bash
-cd SEU_REPOSITORIO
+cd Organizador-de-Arquivos
 ```
 
-**4. Instale as dependências**
+### 4. Instale as dependências
 
 ```bash
 python -m pip install -r requirements.txt
@@ -112,4 +112,10 @@ Este projeto foi desenvolvido para aprimorar conhecimentos práticos em Python, 
 - Módulo de organização: versão 3.1.
 - Testes de movimentação e desfazer realizados com sucesso.
 
-Projeto desenvolvido para fins de aprendizado e composição de portfólio profissional.
+## 👨‍💻 Desenvolvedor
+
+Projeto desenvolvido por **JoaoNogueron** para fins de aprendizado e composição de portfólio profissional.
+
+GitHub: https://github.com/JoaoNogueron
+
+Repositório: https://github.com/JoaoNogueron/Organizador-de-Arquivos
