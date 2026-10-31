@@ -1,0 +1,33 @@
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Configurações locais
+.vscode/
+.idea/
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
+
+# Dados locais do aplicativo
+historico_operacoes.json
+relatorios/
+arquivos_organizados/
+
+# Backups locais
+*_backup.py
+
+# Pastas de testes
+arquivos_teste/
+teste_*/
